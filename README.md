@@ -127,4 +127,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or suggestions, please reach out to [shubhammisra936@gmail.com].
+For questions or suggestions, please reach out to shubhammisra936@gmail.com.
